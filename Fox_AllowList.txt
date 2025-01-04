@@ -1,0 +1,15 @@
+@@||cloudfront.net^$important
+@@||dig.bdurl.net^$important
+@@||amazonaws.com^$important
+@@||amazon.com^$important
+@@||rgom10-asus-en.url.trendmicro.com^$important
+@@||meethue.com^$important
+@@||a.tampermonkey.net^$important
+@@||baidu.com^$important
+@@||taobao.com^$important
+@@||a2z.com^$important
+@@||qq.com^$important
+@@||mqtt.bj.cleargrass.com^$important
+@@||gamepass.com^$important
+@@||duolingo.com^$important
+@@||microsoft.com^$important
