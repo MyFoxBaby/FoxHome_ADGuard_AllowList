@@ -13,3 +13,4 @@
 @@||gamepass.com^$important
 @@||duolingo.com^$important
 @@||microsoft.com^$important
+@@||zoom.us^$important
