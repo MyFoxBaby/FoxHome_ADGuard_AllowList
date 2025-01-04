@@ -14,3 +14,4 @@
 @@||duolingo.com^$important
 @@||microsoft.com^$important
 @@||zoom.us^$important
+@@||douyincdn.com^$important
