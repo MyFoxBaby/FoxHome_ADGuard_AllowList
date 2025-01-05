@@ -24,3 +24,4 @@
 @@||live.com^$important
 @@||edu.au^$important
 @@||xycdn.com^$important
+@@||kuiniuca.com^$important
