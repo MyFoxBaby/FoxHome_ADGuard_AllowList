@@ -23,3 +23,4 @@
 @@||qcloud.com^$important
 @@||live.com^$important
 @@||edu.au^$important
+@@||xycdn.com^$important
