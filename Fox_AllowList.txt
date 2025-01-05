@@ -22,3 +22,4 @@
 @@||xiaohongshu.com^$important
 @@||qcloud.com^$important
 @@||live.com^$important
+@@||edu.au^$important
