@@ -15,3 +15,8 @@
 @@||microsoft.com^$important
 @@||zoom.us^$important
 @@||douyincdn.com^$important
+@@||kic.rdl.lgtvcommon.com^$important
+@@||lgtvonline.lge.com^$important
+@@||alphaonecollege.com.au^$important
+@@||cyberschool.com.au^$important
+@@||xiaohongshu.com^$important
