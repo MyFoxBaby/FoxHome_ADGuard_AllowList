@@ -21,3 +21,4 @@
 @@||cyberschool.com.au^$important
 @@||xiaohongshu.com^$important
 @@||qcloud.com^$important
+@@||live.com^$important
