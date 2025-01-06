@@ -1,7 +1,10 @@
+@@||ring.com^$important
 @@||cloudfront.net^$important
 @@||dig.bdurl.net^$important
+@@||office.net^$important
 @@||amazonaws.com^$important
 @@||amazon.com^$important
+@@||amazon.com.au^$important
 @@||trendmicro.com^$important
 @@||meethue.com^$important
 @@||a.tampermonkey.net^$important
