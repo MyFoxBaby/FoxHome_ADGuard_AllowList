@@ -2,7 +2,7 @@
 @@||dig.bdurl.net^$important
 @@||amazonaws.com^$important
 @@||amazon.com^$important
-@@||rgom10-asus-en.url.trendmicro.com^$important
+@@||trendmicro.com^$important
 @@||meethue.com^$important
 @@||a.tampermonkey.net^$important
 @@||baidu.com^$important
@@ -41,3 +41,4 @@
 @@||icloud.com^$important
 @@||xboxlive.com^$important
 @@||nintendo.net^$important
+@@||bytedns1.com^$important
