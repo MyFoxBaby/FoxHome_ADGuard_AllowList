@@ -25,3 +25,5 @@
 @@||edu.au^$important
 @@||xycdn.com^$important
 @@||kuiniuca.com^$important
+@@||ndcpp.com^$important
+@@||aiv-delivery.net^$important
