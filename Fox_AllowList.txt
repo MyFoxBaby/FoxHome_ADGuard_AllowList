@@ -27,3 +27,17 @@
 @@||kuiniuca.com^$important
 @@||ndcpp.com^$important
 @@||aiv-delivery.net^$important
+@@||bilibili.com^$important
+@@||lgsmartad.com^$important
+@@||vtwenty.com^$important
+@@||lgtvcommon.com^$important
+@@||cdn.ampproject.org^$important
+@@||id.google.com^$important
+@@||tencent-cloud.net^$important
+@@||alipay.com^$important
+@@||apple.com^$important
+@@||aliapp.org^$important
+@@||alicdn.com^$important
+@@||icloud.com^$important
+@@||xboxlive.com^$important
+@@||nintendo.net^$important
