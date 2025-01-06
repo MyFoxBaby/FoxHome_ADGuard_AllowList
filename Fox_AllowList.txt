@@ -42,3 +42,4 @@
 @@||xboxlive.com^$important
 @@||nintendo.net^$important
 @@||bytedns1.com^$important
+@@||nintendo.com^$important
