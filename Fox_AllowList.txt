@@ -15,6 +15,7 @@
 @@||microsoft.com^$important
 @@||zoom.us^$important
 @@||douyincdn.com^$important
+@@||bytedns1.com^$important
 @@||kic.rdl.lgtvcommon.com^$important
 @@||lgtvonline.lge.com^$important
 @@||alphaonecollege.com.au^$important
@@ -39,7 +40,9 @@
 @@||aliapp.org^$important
 @@||alicdn.com^$important
 @@||icloud.com^$important
+@@||xbox.com^$important
 @@||xboxlive.com^$important
 @@||nintendo.net^$important
-@@||bytedns1.com^$important
 @@||nintendo.com^$important
+@@||playstation.com^$important
+@@||playstation.net^$important
