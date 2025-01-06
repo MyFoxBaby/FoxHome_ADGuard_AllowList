@@ -52,3 +52,6 @@
 @@||nintendo.com^$important
 @@||playstation.com^$important
 @@||playstation.net^$important
+@@||myqcloud.com^$important
+@@||tencentmusic.com^$important
+@@||waze.com^$important
