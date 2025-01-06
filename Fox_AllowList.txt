@@ -38,7 +38,7 @@
 @@||lgsmartad.com^$important
 @@||vtwenty.com^$important
 @@||lgtvcommon.com^$important
-@@||cdn.ampproject.org^$important
+@@||ampproject.org^$important
 @@||id.google.com^$important
 @@||tencent-cloud.net^$important
 @@||alipay.com^$important
