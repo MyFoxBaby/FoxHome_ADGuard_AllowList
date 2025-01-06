@@ -16,6 +16,9 @@
 @@||zoom.us^$important
 @@||douyincdn.com^$important
 @@||bytedns1.com^$important
+@@||zijieapi.com^$important
+@@||amemv.com^$important
+@@||ks-live.com^$important
 @@||kic.rdl.lgtvcommon.com^$important
 @@||lgtvonline.lge.com^$important
 @@||alphaonecollege.com.au^$important
