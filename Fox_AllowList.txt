@@ -55,3 +55,4 @@
 @@||myqcloud.com^$important
 @@||tencentmusic.com^$important
 @@||waze.com^$important
+@@||aliyuncs.com^$important
