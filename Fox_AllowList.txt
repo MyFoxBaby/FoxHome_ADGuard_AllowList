@@ -56,3 +56,4 @@
 @@||tencentmusic.com^$important
 @@||waze.com^$important
 @@||aliyuncs.com^$important
+@@||cdn.branch.io^$important
