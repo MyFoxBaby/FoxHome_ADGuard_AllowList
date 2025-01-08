@@ -57,3 +57,4 @@
 @@||waze.com^$important
 @@||aliyuncs.com^$important
 @@||cdn.branch.io^$important
+@@||criteo.com^$important
