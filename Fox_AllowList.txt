@@ -58,3 +58,12 @@
 @@||aliyuncs.com^$important
 @@||cdn.branch.io^$important
 @@||criteo.com^$important
+@@||whatsapp.net^$important
+@@||gtimg.cn^$important
+@@||geolocation.onetrust.com^$important
+@@||windows.com^$important
+@@||miaozhen.com^$important
+@@||tanx.com^$important
+@@||sonos.com^$important
+@@||getui.com^$important
+@@||gvt2.com^$important
