@@ -67,3 +67,4 @@
 @@||sonos.com^$important
 @@||getui.com^$important
 @@||gvt2.com^$important
+@@||ghcr.io^$important
