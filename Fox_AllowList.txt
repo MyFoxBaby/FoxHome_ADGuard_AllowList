@@ -68,3 +68,4 @@
 @@||getui.com^$important
 @@||gvt2.com^$important
 @@||ghcr.io^$important
+@@||mamori.io^$important
