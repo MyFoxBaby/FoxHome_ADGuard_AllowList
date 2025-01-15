@@ -76,3 +76,4 @@
 @@||steamserver.net^$important
 @@||steamstatic.com^$important
 @@||umeng.com^$important
+@@||discord.gg^$important
