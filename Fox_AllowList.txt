@@ -77,3 +77,4 @@
 @@||steamstatic.com^$important
 @@||umeng.com^$important
 @@||discord.gg^$important
+@@||riotcdn.net^$important
