@@ -78,3 +78,4 @@
 @@||umeng.com^$important
 @@||discord.gg^$important
 @@||riotcdn.net^$important
+@@||pvp.net^$important
