@@ -72,5 +72,7 @@
 @@||snplow.net^$important
 @@||sdk.fra-01.braze.eu^$important
 @@||steampowered.com^$important
+@@||steampowerd.com^$important
 @@||steamserver.net^$important
+@@||steamstatic.com^$important
 @@||umeng.com^$important
