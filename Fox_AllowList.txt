@@ -69,3 +69,8 @@
 @@||gvt2.com^$important
 @@||ghcr.io^$important
 @@||mamori.io^$important
+@@||snplow.net^$important
+@@||sdk.fra-01.braze.eu^$important
+@@||steampowered.com^$important
+@@||steamserver.net^$important
+@@||umeng.com^$important
