@@ -79,3 +79,4 @@
 @@||discord.gg^$important
 @@||riotcdn.net^$important
 @@||pvp.net^$important
+@@||weixinbridge.com^$important
