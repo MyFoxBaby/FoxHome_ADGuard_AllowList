@@ -75,6 +75,7 @@
 @@||steampowerd.com^$important
 @@||steamserver.net^$important
 @@||steamstatic.com^$important
+@@||steamcommunity.com^$important
 @@||umeng.com^$important
 @@||discord.gg^$important
 @@||riotcdn.net^$important
