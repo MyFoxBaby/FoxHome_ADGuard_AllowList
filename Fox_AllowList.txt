@@ -83,3 +83,4 @@
 @@||weixinbridge.com^$important
 @@||unrealengine.com^$important
 @@||fengkongcloud.com^$important
+@@||pulsar.gg^$important
