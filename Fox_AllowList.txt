@@ -85,3 +85,4 @@
 @@||fengkongcloud.com^$important
 @@||pulsar.gg^$important
 @@||scope.gg^$important
+@@||chess.com^$important
