@@ -86,3 +86,4 @@
 @@||pulsar.gg^$important
 @@||scope.gg^$important
 @@||chess.com^$important
+@@||aliexpress.com^$important
