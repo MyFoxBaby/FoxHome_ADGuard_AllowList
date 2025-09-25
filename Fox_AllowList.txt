@@ -87,3 +87,4 @@
 @@||scope.gg^$important
 @@||chess.com^$important
 @@||aliexpress.com^$important
+@@||telemetry.canva.com^$important
